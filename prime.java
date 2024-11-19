@@ -14,7 +14,7 @@ public class Prime {
     }
 }
 
-
+// This program checks if a number is prime or not
         if (isPrime) {
             System.out.println(num + " is a prime number.");
         }if (num <= 1) {
